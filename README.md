@@ -1,2 +1,2 @@
 # transformers_from_scratch
-Implementing a Transformer architecture from scratch using pytorch.
+Implementing a Transformer architecture from scratch using pytorch. [ongoing]
